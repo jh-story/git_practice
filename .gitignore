@@ -1,0 +1,5 @@
+# ignore할 파일명 명시 -> 파일명이 회색 텍스트로 변하면 ok
+testfolder/important_config.yml
+
+# 한 번 커밋된 파일은 즉시 ignore 처리되지 않음
+test.txt
